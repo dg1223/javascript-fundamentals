@@ -6,8 +6,32 @@ console.log( 5 != 6)
 // money1 > money2 || result1 > result || ...
 
 if (price > budget){
-    console.log("won't buy")
+    // console.log("won't buy")
 }
 else{
-    console.log("i'll buy something else")
+    // console.log("i'll buy something else")
+}
+
+// multiple conditionals
+if (){
+
+}
+else if (){
+
+}
+else{
+
+}
+
+// nested conditions
+if (){
+    if (){
+
+    }
+    else{
+        
+    }
+}
+else{
+
 }
