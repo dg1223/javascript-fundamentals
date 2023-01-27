@@ -1,2 +1,1 @@
-JavaScript Fundamentals
 # JavaScript Fundamentals
