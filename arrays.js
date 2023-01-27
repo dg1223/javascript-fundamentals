@@ -12,4 +12,11 @@ picnicFee[3] = 44;
 
 // Find index of an element
 var positionIndex = picnicFee.indexOf(48);
-console.log(positionIndex)
+// console.log(positionIndex)
+
+// push pop
+// picnicFee.push(63);
+// console.log(picnicFee)
+
+picnicFee.pop()
+console.log(picnicFee)
