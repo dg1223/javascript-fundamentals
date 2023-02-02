@@ -30,5 +30,14 @@ for (var i=0; i<numbers.length; i++) {
     if (number>50){
         continue;
     }
-    console.log(number)
+    // console.log(number)
 }
+
+var i = 5
+for (; i<5; i++) {
+    console.log
+}
+
+
+// var name = "false"
+// console.log(typeof name );
