@@ -8,4 +8,9 @@ const searchString = 'Pakhi'
 
 const doesExist = lyrics.toLowerCase().includes(searchString.toLowerCase())
 
-console.log(doesExist)
+// console.log(doesExist)
+
+// console.log(lyrics.indexOf('kalaa'))
+
+console.log(lyrics.startsWith('tumi'))
+console.log(lyrics.endsWith('shada'))
